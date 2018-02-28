@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\OsanShaon\Desktop\Publish Asp.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DignosticCenterBillManagementSystemVS2013.dll">
+      <publishTime>08/22/2016 00:25:55</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>08/07/2016 00:44:38</publishTime>
+    </File>
+    <File Include="bin/itextsharp.pdfa.dll">
+      <publishTime>08/07/2016 00:44:42</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/06/2016 16:53:46</publishTime>
+    </File>
+    <File Include="UI/Diagnostic Center Home UI.aspx">
+      <publishTime>08/07/2016 03:44:04</publishTime>
+    </File>
+    <File Include="UI/Payment.aspx">
+      <publishTime>08/05/2016 21:42:44</publishTime>
+    </File>
+    <File Include="UI/TestRequestEntryUI.aspx">
+      <publishTime>08/07/2016 04:03:10</publishTime>
+    </File>
+    <File Include="UI/TestSetupUI.aspx">
+      <publishTime>08/05/2016 22:29:12</publishTime>
+    </File>
+    <File Include="UI/TestWiseReportUI.aspx">
+      <publishTime>08/07/2016 03:06:58</publishTime>
+    </File>
+    <File Include="UI/TypeSetupUI.aspx">
+      <publishTime>08/05/2016 22:29:10</publishTime>
+    </File>
+    <File Include="UI/TypeWiseReportUI.aspx">
+      <publishTime>08/07/2016 03:06:50</publishTime>
+    </File>
+    <File Include="UI/UnpaidBillReportUI.aspx">
+      <publishTime>08/07/2016 03:48:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/22/2016 00:25:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
